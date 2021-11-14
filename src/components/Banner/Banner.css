@@ -1,0 +1,16 @@
+.banner {
+    background-color: #000;
+    /* background-image:url('./../../images/banner/banner.jpg'); */
+    /* background-position: center; */
+    /* background-repeat:no-repeat; */
+    /* background-size: cover; */
+    
+    background: url('./../../images/banner/banner.jpg') no-repeat center fixed;
+    background-size: cover;
+    height: 700px;
+    box-shadow: inset 0 0 0 1000px rgba(2, 2, 19, 0.2);
+}
+
+.banner-text {
+    margin-top: 120px;
+}
