@@ -2,7 +2,10 @@
 
 # My Sites's Live Server [Car-LagbeNaki](https://car-lagbenaki.web.app/) : (https://car-lagbenaki.web.app/).
 
-# Features::
+# Description:
+ This is a Car selling website.The site is very helpfu for car enthusiastic people whgo wants to buy car in future.We offer all trending car collection.
+
+# Features:
  * user can order to purchase different type of car.
  * user can view all of his ordered car list.
  * user can delete his order.
