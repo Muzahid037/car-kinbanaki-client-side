@@ -59,7 +59,7 @@ const Login = () => {
                     </div> */}
 
                     <div className="d-flex justify-content-center ">
-                        <p className="text-danger mx-2">New to DoctorLagbe?</p>
+                        <p className="text-danger mx-2">New to car-kinbaNaki?</p>
                         <Link to="/register">
                             <button className="btn-primary">Create Account</button>
                         </Link>
